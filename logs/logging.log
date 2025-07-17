@@ -1,0 +1,2 @@
+[2025-07-17 15:34:35,616: INFO: main: This is a logger message from the __init__.py file of the datascience package.]
+[2025-07-17 15:34:35,616: INFO: main: Logger has been set up successfully.]
