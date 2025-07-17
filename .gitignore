@@ -1,3 +1,5 @@
 dsmodenv/
-logs/
+
 artifacts/
+
+logs
