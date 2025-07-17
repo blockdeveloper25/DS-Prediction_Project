@@ -34,3 +34,13 @@ Expires: Thu, 17 Jul 2025 12:00:33 GMT
 Source-Age: 0
 
 ]
+[2025-07-17 17:41:55,701: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-07-17 17:41:55,701: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-07-17 17:41:55,702: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-07-17 17:41:55,702: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-07-17 17:41:55,702: INFO: common: created directory at: artifacts]
+[2025-07-17 17:41:55,702: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-07-17 17:41:55,702: INFO: data_ingestion: File already exists]
+[2025-07-17 17:41:55,703: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
