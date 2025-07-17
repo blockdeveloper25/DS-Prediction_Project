@@ -5,7 +5,7 @@ numpy
 scikit-learn
 matplotlib
 python-box
-pyyaml
+pyYAML
 tqdm
 ensure
 joblib
